@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/api/Testzes")
+@RequestMapping("/api/Tests")
 public class TestController {
 
     @Autowired
